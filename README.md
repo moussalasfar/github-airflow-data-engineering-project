@@ -28,3 +28,7 @@ This project involves building an automated data pipeline to extract, process, a
    - Extracted data is stored in an S3 bucket named `moussa-airflow-bucket` in JSON format.
    - Configured IAM permissions (`s3:PutObject` and `s3:HeadObject`) to ensure secure access to the bucket.
 
+## contact
+For any questions or informations:
+- **linkedin**:<a href="www.linkedin.com/in/moussa-lasfar-423793196" target="_blank">Moussa Lasfar</a><br>
+- **Email**:`moussalasfar2000@gmail.com`
