@@ -25,7 +25,7 @@ This project involves building an automated data pipeline to extract, process, a
      - Uploading data to AWS S3.
 
 3. **AWS S3 for Data Storage**:
-   - Extracted data is stored in an S3 bucket named `moussa-airflow-bucket` in JSON format.
+   - Extracted data is stored in an S3 bucket named `moussa-airflow-bucket` in csv format.
    - Configured IAM permissions (`s3:PutObject` and `s3:HeadObject`) to ensure secure access to the bucket.
 
 ## contact
